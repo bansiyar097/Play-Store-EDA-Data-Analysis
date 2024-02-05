@@ -4,16 +4,23 @@
 
 ![Google laystore picture](https://github.com/bansiyar097/Play-Store-EDA-Data-Analysis/assets/155131566/11798b78-3bd0-4035-ad7a-34f9efa5e021)
 
-The aim of this project is to analyze a dataset containing information about mobile apps from the Google Play Store. We will perform various data analysis tasks, including data cleaning, preprocessing, and visualization, to derive insights into app categories, ratings, sizes, installations, and other relevant factors.
+The aim of this project is to analyze a dataset containing information about mobile apps from the Google Play Store. Here I have performed various data analysis tasks, including data cleaning, preprocessing, and visualization, to derive insights into app categories, ratings, sizes, installations, and other relevant factors.
 
 
 
 <h2>Problem Statement</h2>
-The main objectives of this project are :-
+
+**The main objectives of this project are** :-
+
+
 To gain insights into app categories and their distribution.
+
 To analyze app ratings and identify trends or patterns.
+
 To preprocess and clean the data for further analysis.
+
 To visualize the data using appropriate plots and charts.
+
 To answer specific questions related to app characteristics, ratings, and installations.
 
 <h2>Steps Taken</h2>
